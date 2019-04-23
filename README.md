@@ -15,4 +15,4 @@ $ npm run test
 
 * 基础算法
 
-    * [字符串类]()
+    * [字符串类](./code/string)
