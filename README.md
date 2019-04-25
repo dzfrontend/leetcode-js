@@ -15,4 +15,6 @@ $ npm run test
 
 * 基础算法
 
-    * [字符串类](./code/string)
+    * [字符串](./code/string)
+
+    * [数组](./code/array)
