@@ -1,5 +1,5 @@
 /**
- * 数组之公式运算
+ * 数组之排列组合
  * 电话号码的字母组合
  * 真题链接：https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
  * */
