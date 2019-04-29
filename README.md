@@ -22,3 +22,5 @@ $ npm run test
         * [数组之排列组合-leetcode电话号码的字母组合](./code/array/letterCombinations.js)
 
         * [数组之分组-leetcode卡牌分组](./code/array/cardGroup.js)
+
+        * [数组之种花-leetcode种花问题](./code/array/canPlaceFlowers.js)
