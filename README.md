@@ -24,3 +24,5 @@ $ npm run test
         * [数组之分组-leetcode卡牌分组](./code/array/cardGroup.js)
 
         * [数组之种花-leetcode种花问题](./code/array/canPlaceFlowers.js)
+
+        * [数组之格雷编码-leetcode格雷编码](./code/array/grayCode.js)
