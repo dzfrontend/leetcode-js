@@ -26,3 +26,7 @@ $ npm run test
         * [数组之种花-leetcode种花问题](./code/array/canPlaceFlowers.js)
 
         * [数组之格雷编码-leetcode格雷编码](./code/array/grayCode.js)
+
+    * [正则表达式](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions)
+
+        * [正则表达式之模式匹配-leetcode重复的子字符串](./code/pattern/repeatedSubstring.js)
