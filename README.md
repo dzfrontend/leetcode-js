@@ -29,4 +29,10 @@ $ npm run test
 
     * [正则表达式](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions)
 
-        * [正则表达式之模式匹配-leetcode重复的子字符串](./code/pattern/repeatedSubstring.js)
+        * [正则表达式之模式匹配-leetcode重复的子字符串](./code/regexp/repeatedSubstring.js)
+
+    * [排序]
+
+        * [冒泡排序](./code/sort/bubbleSort.js)
+
+        * [选择排序](./code/sort/selectSort.js)
