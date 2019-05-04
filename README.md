@@ -31,8 +31,14 @@ $ npm run test
 
         * [正则表达式之模式匹配-leetcode重复的子字符串](./code/regexp/repeatedSubstring.js)
 
-    * [排序]
+    * [排序](./code/sort)
 
         * [冒泡排序](./code/sort/bubbleSort.js)
 
         * [选择排序](./code/sort/selectSort.js)
+
+        * [排序扩展-leetcode按奇偶排序数组](./code/sort/sortArrayByParity.js)
+
+        * [排序扩展-leetcode数组中的第K个最大元素](./code/sort/findKthLargest.js)
+
+        * [排序扩展-leetcode缺失的第一个正数](./code/sort/firstMissingPositive.js)
