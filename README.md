@@ -52,3 +52,7 @@ $ npm run test
     * [队列](./code/queue)
 
         * [队列-leetcode设计循环队列](./code/queue/myCircularQueue.js)
+
+    * [链表](./code/chain)
+
+        * [单链表快速排序-leetcode排序链表](./code/chain/sortList.js)
