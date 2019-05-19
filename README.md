@@ -56,3 +56,7 @@ $ npm run test
     * [链表](./code/chain)
 
         * [单链表快速排序-leetcode排序链表](./code/chain/sortList.js)
+
+    * [矩阵](./code/matrix)
+
+        * [螺旋矩阵-leetcode螺旋矩阵](./code/matrix/spiralMatrix.js)
